@@ -1,0 +1,9 @@
+{
+    "name": "OD Loaders",
+    "description": "Custom loader nodes for GGUF Unets, LoRAs, and Diffusion models",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "tags": ["loaders", "GGUF", "LoRA", "diffusion"],
+    "install_type": "git",
+    "git": "https://github.com/yourusername/comfyui-od-loaders"
+}
